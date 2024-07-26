@@ -67,3 +67,11 @@ The To-Do Task app is an Android application designed to help users manage their
  Summary
 
 The To-Do Task app is a robust and feature-rich application designed to help users manage their tasks effectively. With its intuitive user interface, persistent storage, and advanced features like date and time pickers and notifications, the app provides a comprehensive solution for task management. By leveraging Android's built-in capabilities and providing a clean and modern design, the To-Do Task app ensures that users can stay organized and productive in their daily lives.
+
+
+![imag1](https://github.com/user-attachments/assets/8b3f9a89-da7b-44d2-9cf6-f5783d00fe35)
+
+![image2](https://github.com/user-attachments/assets/b628abbf-a7d6-429b-b069-33508c957c23)
+
+
+
